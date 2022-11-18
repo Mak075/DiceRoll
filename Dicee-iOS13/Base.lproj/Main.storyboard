@@ -100,7 +100,8 @@
                         </constraints>
                     </view>
                     <connections>
-                        <outlet property="diceImageViewTwo" destination="FkO-MK-Nh8" id="PbE-Wk-nJ7"/>
+                        <outlet property="diceImageViewOne" destination="Lsn-PS-W2n" id="ZA4-Wm-nkK"/>
+                        <outlet property="diceImageViewTwo" destination="FkO-MK-Nh8" id="DuU-7H-hXo"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
